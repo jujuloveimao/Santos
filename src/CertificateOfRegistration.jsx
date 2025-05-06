@@ -187,7 +187,7 @@ const CertificateOfRegistration = () => {
   // curriculum, age, year level, scholarship registered, email and acad year
   const [studentInfo, setStudentInfo] = useState({
     studentNo: '234-04102M',
-    name: 'SANTOS, JUSTINE ESTUESTA SANTOS',
+    name: 'SANTOS, JUSTINE ESTUESTA ',
     college: 'College of Computing Studies',
     program: 'Bachelor of Science in Information Technology',
     gender: 'Male',
