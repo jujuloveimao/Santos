@@ -1,5 +1,5 @@
 import React from 'react';
-import CertificateOfRegistration from '../Santos/CertificateOfRegistration';
+import CertificateOfRegistration from './CertificateOfRegistration';
 
 function App() {
   return (
